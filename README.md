@@ -29,8 +29,8 @@ This project implements a **DHT22 temperature and humidity logger** using the **
 ## Installation & Setup  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ESP32-DHT22-Logger.git  
-   cd ESP32-DHT22-Logger  
+   git clone https://github.com/praveensg0/DHT22.git
+   cd DHT22
    ```  
 
 2. **Install the required libraries** in the **Arduino IDE**:  
