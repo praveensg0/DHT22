@@ -3,8 +3,6 @@
 ## **Description**  
 This project implements a **DHT22 temperature and humidity logger** using the **ESP32**. It logs sensor data to the **SPIFFS file system** every **30 seconds** and allows users to **export, clear, or download logs** over **Wi-Fi via HTTP**. The system also supports **serial command-line control** for flexibility.  
 
-🔗 **Demo Video:** [DHT.mp4](#) *(Replace with actual video link)*  
-
 
 ## **Hardware Requirements**  
 - **ESP32 WROOM 32D**  
@@ -21,7 +19,6 @@ This project implements a **DHT22 temperature and humidity logger** using the **
 | 220Ω Resistor | Between GPIO 4 & VCC |
 
 
-
 ## Features  
 - **SPIFFS Storage**: Saves sensor readings in a file.  
 - **Wi-Fi Connectivity**: Allows log file download over HTTP.  
@@ -31,7 +28,7 @@ This project implements a **DHT22 temperature and humidity logger** using the **
 
 ## Installation & Setup  
 1. **Clone the repository**  
-   ```sh  
+   ```bash
    git clone https://github.com/yourusername/ESP32-DHT22-Logger.git  
    cd ESP32-DHT22-Logger  
    ```  
@@ -59,14 +56,9 @@ http://<ESP32-IP>/download
 ```  
 
 ## Demo  
-[![Watch Video]([https://github.com/praveensg0/DHT22/blob/main/DHT.mp4](https://github.com/user-attachments/assets/aedf5ca2-c170-4966-bd1d-de639a57aaed))(DHT.mp4)  
+[![Watch Video](https://github.com/user-attachments/assets/aedf5ca2-c170-4966-bd1d-de639a57aaed)](https://github.com/praveensg0/DHT22/blob/main/DHT.mp4)  
+
 
 ## License  
 This project is open-source and available under the MIT License.  
 
-## **Installation & Setup**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/ESP32-DHT22-Logger.git
-   cd ESP32-DHT22-Logger
-```
