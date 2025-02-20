@@ -55,8 +55,6 @@ Once connected to Wi-Fi, access the log file by visiting:
 http://<ESP32-IP>/download  
 ```  
 
-## Demo  
-[![Watch Video](https://github.com/user-attachments/assets/aedf5ca2-c170-4966-bd1d-de639a57aaed)](https://github.com/praveensg0/DHT22/blob/main/DHT.mp4)  
 
 
 ## License  
