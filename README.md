@@ -52,7 +52,7 @@ This project implements a **DHT22 temperature and humidity logger** using the **
 
 
 ## Demo  
-![Watch Video](https://github.com/user-attachments/assets/aedf5ca2-c170-4966-bd1d-de639a57aaed)
+https://github.com/user-attachments/assets/aedf5ca2-c170-4966-bd1d-de639a57aaed
 
 ## Web Interface  
 Once connected to Wi-Fi, access the log file by visiting:  
